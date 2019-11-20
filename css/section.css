@@ -20,3 +20,7 @@ h4 {
 div {
     flex-basis: 50%;
 }
+
+.highlightCard{
+    background-color: peachpuff;
+}
