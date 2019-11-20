@@ -1,21 +1,21 @@
 nav {
     display: flex;
-    justify-content: space-between;
-    width: auto;
+    justify-content: space-around;
+    width: 100%;
     background-color: peachpuff;
     padding: 25px;
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
     border-bottom: 2px solid peru;
+    position: fixed;
 }
 
 nav a {
     font-family: GillSans-Light;
     font-size: 24px;
     text-decoration: none;
-    padding-left: 10px;
-    padding-right: 10px;
+  
     color: black;
     height: 100%;
     padding: 10px;
