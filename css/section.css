@@ -1,0 +1,22 @@
+.country__article {
+    font-family: GillSans-Light;
+    display: flex; 
+    justify-content: space-evenly;
+    padding-bottom: 2em;
+}
+
+section {
+    border: 2px solid peachpuff;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    text-align: center;
+}
+
+h4 {
+    text-decoration: underline;
+}
+div {
+    flex-basis: 50%;
+}
