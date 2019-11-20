@@ -1,3 +1,3 @@
-import addMouseOverEventListeners from "./section";
+import addMouseOverEventListeners from "./section.js"
 
 addMouseOverEventListeners()

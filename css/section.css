@@ -2,6 +2,7 @@
     font-family: GillSans-Light;
     display: flex; 
     justify-content: space-evenly;
+    padding-top: 2em;
     padding-bottom: 2em;
 }
 
@@ -21,6 +22,6 @@ div {
     flex-basis: 50%;
 }
 
-.highlightCard{
+.highlightCard {
     background-color: peachpuff;
 }

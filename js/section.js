@@ -1,6 +1,6 @@
 const addMouseOverEventListeners = () => {
 
-    const fishCards = document.querySelectorAll(".country__card")
+    const countryCard = document.querySelectorAll(".country__card")
 
     for (const card of countryCard) {
         card.addEventListener(
@@ -11,7 +11,7 @@ const addMouseOverEventListeners = () => {
             }
         )
         card.addEventListener("mouseout", theMouseOverEvent => {
-            card.classList.remove("highlightCard")
+            card.classList.remove("highlightCard") 
 
         })
 
