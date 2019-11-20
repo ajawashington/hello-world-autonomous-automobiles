@@ -1,6 +1,8 @@
 @import 'nav.css';
-@import 'image.css;'
+@import 'image.css';
+@import 'section.css';
 
 body {
     color: black;
+    background-color: peru;
 }
