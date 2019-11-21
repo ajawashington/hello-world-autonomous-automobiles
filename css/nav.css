@@ -22,8 +22,9 @@ nav a {
 
 footer{
     overflow: hidden;
-    margin-right: -15px;
-    margin-bottom: -15px;
+    margin: 0px -20px -10px -20px;
+    position: relative;
+
 }
 
 a:hover {
