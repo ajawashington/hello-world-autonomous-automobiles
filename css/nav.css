@@ -7,7 +7,6 @@ nav {
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
-    border-bottom: 2px solid peru;
 }
 
 nav a {
@@ -19,6 +18,13 @@ nav a {
     height: 100%;
     padding: 10px;
     position: relative;
+}
+
+footer{
+    overflow: hidden;
+    margin: 0px -20px -10px -20px;
+    position: relative;
+
 }
 
 a:hover {
