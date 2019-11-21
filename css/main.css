@@ -3,6 +3,8 @@
 @import 'section.css';
 
 body {
+    font-family: GillSans-Light;
     color: black;
     background-color: peru;
+    
 }

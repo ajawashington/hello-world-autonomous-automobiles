@@ -24,4 +24,6 @@ div {
 
 .highlightCard {
     background-color: peachpuff;
+    background-image: url(/images/madagascar_640.png);
+    background-position: center;
 }
