@@ -42,9 +42,13 @@ div {
 section.index__card {
     border: none;
     height: auto;
+    background-position: center;
+    /* transition-duration: .5s; */
+    /* border-radius: 50%; */
 }
 
 
 section.index__card:hover {
-    border: 1px solid peachpuff;
+    border: .01px solid peachpuff;
+    flex-basis: 50%;
 }
