@@ -13,6 +13,6 @@ const leaders = [
     },
 ]
 
-export const useleaders = () => {
+export const useLeaders = () => {
     return leaders
 }
