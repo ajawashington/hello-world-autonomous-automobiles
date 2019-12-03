@@ -2,16 +2,16 @@
 
 const landmarks = [
   {
-    Landmarks: "Plaza Mayor",
-    City: "Madrid"
+    landmark: "Plaza Mayor",
+    city: "Madrid"
   },
   {
-    Landmarks: "Basilica of the Sagrada Familia",
-    City: "Barcelona"
+    landmark: "Basilica of the Sagrada Familia",
+    city: "Barcelona"
   },
   {
-    Landmarks: "Assut de l'Or Bridge",
-    City: "Valencia"
+    landmark: "Assut de l'Or Bridge",
+    city: "Valencia"
   }
 ]
 
