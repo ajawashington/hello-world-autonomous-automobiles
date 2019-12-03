@@ -4,6 +4,7 @@ import LeaderListComponent from "./leaders/leaderlist.js";
 import addMouseOverEventListeners from "../main/section.js"
 import initializeDetailButtonEvents from "../main/dialog.js";
 
+
 LeaderListComponent ()
 LandmarkListComponent ()
 CityListComponent ()
