@@ -10,7 +10,7 @@ const landmarks = [
     city: "Barcelona"
   },
   {
-    landmark: "Assut de l'Or Bridge",
+    landmark: "Assut de lOr Bridge",
     city: "Valencia"
   }
 ]
