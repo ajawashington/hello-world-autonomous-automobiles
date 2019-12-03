@@ -6,6 +6,40 @@
     padding-bottom: 2em;
 }
 
+.city__list {
+    font-family: GillSans-Light;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-bottom: 2em;
+}
+
+.landmark__list {
+    margin-top: -10px;
+}
+
+.landmark__name {
+    font-weight: 550;
+}
+
+.landmark__city {
+  
+    padding-bottom: .5em;
+}
+
+.leader__list {
+    margin-top: -10px;
+}
+
+.leader__name {
+    font-weight: 550;
+}
+
+.leader__reign {
+    font-weight: 500;
+    margin-bottom: .5em;
+}
+
 section {
     border: 2px solid peachpuff;
     height: 200px;
