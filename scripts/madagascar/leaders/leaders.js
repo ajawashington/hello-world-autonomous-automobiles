@@ -1,15 +1,13 @@
 const LeaderComponent = (leader) => {
     return `
-            <div class="leader__name">${leader.leader}</div>
-            <div class="leader__reign">${leader.reign}</div>
-            <button id="button--${leader.leader}">Learn More!</button>
+    <div class="leader__name">${leader.leader}</div>
+    <button id="button--${leader.leader.replace(/\s/g, '')}">Learn More!</button>
 
-            <dialog class="dialog--leader" id="details--${leader.leader}">
-            <div>Name: ${leader.leader}</div>
-            <div>Reign: ${leader.reign}</div>
+    <dialog class="dialog--landmark" id="details--${leader.leader.replace(/\s/g, '')}">
+    <div>Reign: ${leader.reign}</div>
 
-            <button class="close__dialog">Close Dialog</button>
-            </dialog>
+    <button class="close__dialog">Close Dialog</button>
+    </dialog>
     `
 }
 
