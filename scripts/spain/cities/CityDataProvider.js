@@ -2,13 +2,19 @@
 
 const cities = [
   {
-    city: "Madrid"
+    city: "Madrid",
+    population: "3,255,944",
+    mayor: "Jose Luis Martinez-Almeida"
   },
   {
-    city: "Barcelona"
+    city: "Barcelona",
+    population: "1,621,537",
+    mayor: "Ada Colau"
   },
   {
-    city: "Valencia"
+    city: "Valencia",
+    population: "814,208",
+    mayor: "Joan Ribo"
   }
 ]
 
