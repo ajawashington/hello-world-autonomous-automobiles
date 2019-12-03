@@ -1,12 +1,12 @@
 // array of cities 
 const cities = [{
-    city: "Antananarivo"
+    city: "Antananarivo",
 },
 {
-    city: "Toamasina"
+    city: "Toamasina",
 },
 {
-    city: "Antsirabe"
+    city: "Antsirabe",
 },
 
 // change these ^^ to your cities
