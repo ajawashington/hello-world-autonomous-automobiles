@@ -64,7 +64,7 @@ div {
     border: 1px solid black;
     transition-duration: .5s;
     flex-basis: 40%;
-    border-radius: 50%;
+    border-radius: 20px;
 }
 
 .highlightCard h4 {
