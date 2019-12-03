@@ -1,4 +1,16 @@
 button {
-    max-width: 100px;
-    align-content: center;
+    max-width: 100%;
+    justify-content: center;
+    border: 1px solid BLACK;
+    background-color: peachpuff;
+    color: black;
+    font-size: 13px;
+    border-radius: 50px;
+    MARGIN-bottom: .5em;
+}
+
+dialog  {
+    background-color: peachpuff;
+    height: 200px;
+    width: 200px;
 }
