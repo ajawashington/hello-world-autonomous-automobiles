@@ -1,12 +1,13 @@
 @import 'nav.css';
 @import 'image.css';
 @import 'section.css';
+@import 'button.css';
 
 body {
     font-family: GillSans-Light;
     color: black;
     background-color: peru;
-    
+
 }
 
 .index__caption {
