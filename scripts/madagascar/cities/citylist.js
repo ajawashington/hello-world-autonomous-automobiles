@@ -5,7 +5,7 @@ import CityComponent from "./Cities.js";
 const CityListComponent = () => {
 
 
-    const contentElement = document.querySelector(".cityList")
+    const contentElement = document.querySelector(".city__list")
     const cities = useCities()
 
     contentElement.innerHTML += `
