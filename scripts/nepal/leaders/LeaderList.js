@@ -1,4 +1,4 @@
-import { useLeaders } from "../../spain/leaders/LeaderDataProvider.js";
+import { useLeaders } from "../../nepal/leaders/LeaderDataProvider.js";
 import LeaderComponent from "./Leaders.js";
 
 

@@ -6,7 +6,7 @@ const landmarks = [
         landmark:"Sky Tower",
     },
     {
-        city:"- Wellington",
+        city:"Wellington",
         landmark:"Wellington Botanic Gardens",
     },
     {
