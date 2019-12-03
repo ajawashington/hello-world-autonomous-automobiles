@@ -1,6 +1,6 @@
 const leaders = [{
         leader: "Bidhya Devi Bhandari",
-        reign: "2015 - "
+        reign: "2015 - Current "
     },
     {
         leader: "Ram Baran Yadav",
