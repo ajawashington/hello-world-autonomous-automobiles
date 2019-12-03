@@ -8,9 +8,7 @@
 
 .city__list {
     font-family: GillSans-Light;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+    margin-top: -10px;
     padding-bottom: 2em;
 }
 
@@ -18,9 +16,7 @@
     margin-top: -10px;
 }
 
-.landmark__name {
-    font-weight: 550;
-}
+
 
 .landmark__city {
   
@@ -31,9 +27,7 @@
     margin-top: -10px;
 }
 
-.leader__name {
-    font-weight: 550;
-}
+
 
 .leader__reign {
     font-weight: 500;

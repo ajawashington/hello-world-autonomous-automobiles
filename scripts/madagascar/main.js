@@ -7,6 +7,5 @@ import addMouseOverEventListeners from "../main/section.js"
 LeaderListComponent ()
 LandmarkListComponent ()
 CityListComponent ()
-
 addMouseOverEventListeners()
 
