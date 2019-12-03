@@ -5,7 +5,7 @@ import LandmarkComponent from "./landmarks.js";
 const LandmarkListComponent = () => {
 
 
-    const contentElement = document.querySelector(".landmarkList")
+    const contentElement = document.querySelector(".landmark__list")
     const landmarks = useLandmarks()
 
     contentElement.innerHTML += `
