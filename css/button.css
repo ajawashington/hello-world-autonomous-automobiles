@@ -4,7 +4,7 @@ button {
     padding: .5rem 2.5rem;
     margin: 0;
     text-decoration: none;
-    background: peru;
+    background:#00ADFC;
     color: black;
     font-family: sans-serif;
     font-size: .9rem;
@@ -22,7 +22,7 @@ button:focus {
 }
 
 button:focus {
-    outline: 1px solid #fff;
+    outline: 1px solid#00ADFC;
     outline-offset: -4px;
 }
 
@@ -31,7 +31,7 @@ button:active {
 }
 
 dialog  {
-    background-color: peachpuff;
+    background-color:;
     height: 200px;
     width: 200px;
 }
