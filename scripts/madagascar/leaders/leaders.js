@@ -5,6 +5,8 @@ const LeaderComponent = (leader) => {
 
     <dialog class="dialog--leader" id="details--${leader.leader.replace(/\s/g, '')}">
     <div>Reign: ${leader.reign}</div>
+    <img src="${leader.imgUrl}" class="dialog__img"></img>
+
 
     <button class="close__dialog">Close Dialog</button>
     </dialog>
