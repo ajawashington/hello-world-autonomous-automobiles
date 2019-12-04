@@ -11,6 +11,42 @@ body {
 }
 
 .index__caption {
+    font-family: GillSans-Light;
     text-align: center;
-    color: peachpuff;
+    color: black;
+    font-weight: 200;
 }
+
+
+
+.overlay {
+    position: absolute;
+    top: 18%;
+    bottom: 0;
+    left: 25%;
+    right: 0;
+    height: 10%;
+    width: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: peru;
+    border-radius: 20px;
+    border: 1px solid peachpuff;
+  }
+
+  .hero:hover .overlay {
+    opacity: .9;
+  }
+
+ 
+  
+  .text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }

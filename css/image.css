@@ -23,16 +23,28 @@ header {
     color: white;
 }
 
-img {
+/* img {
+    border-radius: 25px;
     margin-top: 50px;
     width: 77%;
     height: 38em;
     align-self: center;
-}
+} */
+
+.image {
+    display: block;
+    width: 50%;
+    height: auto;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+  
+  } 
 
 .index__img {
     height: 100%;
     width: 100%;
+    margin-bottom: 122px;
 }
 
 
