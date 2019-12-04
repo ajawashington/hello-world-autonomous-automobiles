@@ -1,6 +1,7 @@
 const landmarks = [{
         landmark: "Devi’s Falls",
-        city: "Pokhara"
+        city: "Pokhara",
+        imgUrl: '/images/devilsFalls.jpg'
     },
     {
         landmark: "Swayambhunath",
