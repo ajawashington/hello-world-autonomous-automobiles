@@ -79,13 +79,13 @@ section.index__card {
 
 
 section.index__card:hover {
-    border: .01px solid peachpuff;
+    border: .01px solid #F9F8F5;
     flex-basis: 50%;
 }
 .dialog--city {
     top: 50%;
     left: -60%;
-    background-color: peachpuff;
+    background-color: #F9F8F5;
     background-position: center;
     border: 1px solid black;
     transition-duration: .5s;
@@ -94,7 +94,7 @@ section.index__card:hover {
 }
 .dialog--landmark {
     top: 50%;
-    background-color: peachpuff;
+    background-color: #F9F8F5;
     background-position: center;
     border: 1px solid black;
     transition-duration: .5s;
@@ -104,7 +104,7 @@ section.index__card:hover {
 .dialog--leader {
     top: 50%;
     left: 60%;
-    background-color: peachpuff;
+    background-color: #F9F8F5;
     background-position: center;
     border: 1px solid black;
     transition-duration: .5s;

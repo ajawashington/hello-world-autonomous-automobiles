@@ -1,13 +1,13 @@
 button {
     display: inline-block;
     border: none;
-    padding: .5rem 2.5rem;
-    margin: 0;
+    padding: .3rem 1.3rem;
+    border-radius: 50px;
     text-decoration: none;
     background:#00ADFC;
-    color: black;
+    color: white;
     font-family: sans-serif;
-    font-size: .9rem;
+    font-size: .8rem;
     cursor: pointer;
     text-align: center;
     transition: background 250ms ease-in-out, 
@@ -18,12 +18,13 @@ button {
 
 button:hover,
 button:focus {
-    background:white;
+    background:#F9F8F5;
+    color:#1D1B2F;
+    border: .03em solid #1D1B2F;
 }
 
 button:focus {
-    outline: 1px solid#00ADFC;
-    outline-offset: -4px;
+    outline:none;
 }
 
 button:active {
