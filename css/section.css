@@ -81,7 +81,7 @@ section.index__card:hover {
     flex-basis: 50%;
 }
 .dialog--city {
-    top: 57%;
+    top: 50%;
     left: -60%;
     background-color: peachpuff;
     background-position: center;
@@ -91,7 +91,7 @@ section.index__card:hover {
     border-radius: 20px;
 }
 .dialog--landmark {
-    top: 57%;
+    top: 50%;
     background-color: peachpuff;
     background-position: center;
     border: 1px solid black;
@@ -100,7 +100,7 @@ section.index__card:hover {
     border-radius: 20px;
 }
 .dialog--leader {
-    top: 57%;
+    top: 50%;
     left: 60%;
     background-color: peachpuff;
     background-position: center;
