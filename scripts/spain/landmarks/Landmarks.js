@@ -6,7 +6,7 @@ const LandmarkComponent = (landmark) => {
           <button id="button--${landmark.landmark.replace(/\s/g, '')}">Learn More!</button>
 
           <dialog class="dialog--landmark" id="details--${landmark.landmark}">
-          <div>City: ${landmark.city}</div>
+          <div>Location: ${landmark.city}</div>
 
           <button class="close__dialog">Close Dialog</button>
           </dialog>
