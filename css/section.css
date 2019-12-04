@@ -70,7 +70,9 @@ div {
 }
 
 section.index__card {
+    background-color: #efebd9;
     border: none;
+    margin-top: 100px;
     height: auto;
     background-position: center;
     /* transition-duration: .5s; */
@@ -84,7 +86,7 @@ section.index__card:hover {
 }
 .dialog--city {
     top: 50%;
-    left: -60%;
+    left: -65%;
     background-color: peachpuff;
     background-position: center;
     border: 1px solid black;
@@ -103,7 +105,7 @@ section.index__card:hover {
 }
 .dialog--leader {
     top: 50%;
-    left: 60%;
+    left: 65%;
     background-color: peachpuff;
     background-position: center;
     border: 1px solid black;
