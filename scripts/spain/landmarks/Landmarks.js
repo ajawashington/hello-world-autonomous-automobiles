@@ -7,6 +7,7 @@ const LandmarkComponent = (landmark) => {
 
           <dialog class="dialog--landmark" id="details--${landmark.landmark}">
           <div>Location: ${landmark.city}</div>
+          <img src="${landmark.imgUrl}" class="dialog__img">
 
           <button class="close__dialog">Close Dialog</button>
           </dialog>

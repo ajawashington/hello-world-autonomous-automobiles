@@ -3,15 +3,18 @@
 const landmarks = [
   {
     landmark: "Plaza Mayor",
-    city: "Madrid"
+    city: "Madrid",
+    imgUrl: '/images/PlazaMayor.jpg'
   },
   {
     landmark: "Basilica of the Sagrada Familia",
-    city: "Barcelona"
+    city: "Barcelona",
+    imgUrl: '/images/Basill.jpg'
   },
   {
     landmark: "Assut de lOr Bridge",
-    city: "Valencia"
+    city: "Valencia",
+    imgUrl: '/images/assult.jpg'
   }
 ]
 
