@@ -87,7 +87,7 @@ section.index__card:hover {
 .dialog--city {
     top: 50%;
     left: -65%;
-    background-color: peachpuff;
+    background-color: #F9F8F5;
     background-position: center;
     border: 1px solid black;
     transition-duration: .5s;
