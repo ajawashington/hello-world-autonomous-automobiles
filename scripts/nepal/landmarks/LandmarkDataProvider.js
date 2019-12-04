@@ -5,11 +5,13 @@ const landmarks = [{
     },
     {
         landmark: "Swayambhunath",
-        city: "Kathmandu"
+        city: "Kathmandu",
+        imgUrl: '/images/Swayambhunath.jpeg'
     },
     {
         landmark: "Patan Durbar Square",
-        city: "Lalitpur"
+        city: "Lalitpur",
+        imgUrl: '/images/patan.jpeg'
     },
 
 ]
