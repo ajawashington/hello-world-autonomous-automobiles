@@ -80,3 +80,32 @@ section.index__card:hover {
     border: .01px solid peachpuff;
     flex-basis: 50%;
 }
+.dialog--city {
+    top: 95%;
+    left: -60%;
+    background-color: peachpuff;
+    background-position: center;
+    border: 1px solid black;
+    transition-duration: .5s;
+    flex-basis: 40%;
+    border-radius: 20px;
+}
+.dialog--landmark {
+    top: 95%;
+    background-color: peachpuff;
+    background-position: center;
+    border: 1px solid black;
+    transition-duration: .5s;
+    flex-basis: 40%;
+    border-radius: 20px;
+}
+.dialog--leader {
+    top: 95%;
+    left: 60%;
+    background-color: peachpuff;
+    background-position: center;
+    border: 1px solid black;
+    transition-duration: .5s;
+    flex-basis: 40%;
+    border-radius: 20px;
+}
