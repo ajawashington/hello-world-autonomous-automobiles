@@ -1,17 +1,17 @@
 const landmarks = [{
     city: "Antananarivo",
     landmark: "Rova of Antananarivo",
-    imgUrl: '/images/pok.jpg'
+    imgUrl: '/images/madLandRoa.jpg'
 }, 
 {
     city: "Toamasina",
     landmark: "Nosy Alañaña Lighta",
-    imgUrl: '/images/pok.jpg'
+    imgUrl: '/images/madLandNosy.jpg'
 }, 
 { 
     city: "Antsirabe",
     landmark: "Fahaleovantena Tribes Monument",
-    imgUrl: '/images/pok.jpg'
+    imgUrl: '/images/madLandFah.jpg'
 },
 
 ]
