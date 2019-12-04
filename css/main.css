@@ -6,7 +6,7 @@
 body {
     font-family: GillSans-Light;
     color: black;
-    background-color: peru;
+    background-color:#efebd9;
 
 }
 
@@ -29,16 +29,14 @@ body {
     width: 50%;
     opacity: 0;
     transition: .5s ease;
-    background-color: peru;
+    background-color: #00adfc;
     border-radius: 20px;
-    border: 1px solid peachpuff;
   }
 
   .hero:hover .overlay {
     opacity: .9;
   }
 
- 
   
   .text {
     text-align: center;

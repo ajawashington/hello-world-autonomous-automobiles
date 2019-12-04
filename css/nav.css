@@ -3,7 +3,7 @@ nav {
     display: flex;
     justify-content: space-around;
     width: 100%;
-    background-color: peachpuff;
+    background-color: #1e1c2f;
     padding: 25px;
     margin-top: -10px;
     margin-left: -10px;
@@ -17,7 +17,7 @@ nav a {
     font-size: 24px;
     text-decoration: none;
   
-    color: black;
+    color: white;
     height: 100%;
     padding: 10px;
     position: relative;
@@ -32,6 +32,6 @@ footer{
 }
 
 a:hover {
-    background-color: peru;
+    background-color: #69c7ea;
     background-size: 100%;
 }

@@ -35,7 +35,8 @@
 }
 
 section {
-    border: 2px solid peachpuff;
+    color: #48494f;
+    background-color: #f9f8f5;
     height: 200px;
     display: flex;
     flex-direction: column;
@@ -53,16 +54,17 @@ div {
 }
 
 .highlightCard {
-    background-color: peachpuff;
+    background-color: #f9f8f5;
     background-position: center;
-    border: 1px solid black;
+    box-shadow: 0px 2px 32px 8px rgba(30,28,47,0.48);
+    border: .05em solid #ececed;
     transition-duration: .5s;
-    flex-basis: 40%;
+    flex-basis: 30%;
     border-radius: 20px;
 }
 
 .highlightCard h4 {
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     transition-duration: .5s;
 }
