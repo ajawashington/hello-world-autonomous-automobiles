@@ -5,6 +5,7 @@ const LandmarkComponent = (landmark) => {
 
             <dialog class="dialog--landmark" id="details--${landmark.city.replace(/\s/g, '')}">
             <div>Location: ${landmark.city.replace(/\s/g, '')}</div>
+            <img src="${landmark.imgUrl}" class="dialog__img">
 
             <button class="close__dialog">Close Dialog</button>
             </dialog>
