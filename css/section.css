@@ -70,7 +70,9 @@ div {
 }
 
 section.index__card {
+    background-color: #efebd9;
     border: none;
+    margin-top: 100px;
     height: auto;
     background-position: center;
     /* transition-duration: .5s; */
