@@ -2,17 +2,20 @@
 const cities = [{
     city: "Antananarivo",
     population: "1.3 Million",
-    mayor: "Lalao Ravalomanana "
+    mayor: "Lalao Ravalomanana",
+    imgUrl: '/images/pok.jpg'
 },
 {
     city: "Toamasina",
     population: "390K",
-    mayor: "Roland Ratsiraka"
+    mayor: "Roland Ratsiraka",
+    imgUrl: '/images/pok.jpg'
 },
 {
     city: "Antsirabe",
     population: "257K",
-    mayor: "Olga Ramalason"
+    mayor: "Olga Ramalason",
+    imgUrl: '/images/pok.jpg'
 },
 
 // change these ^^ to your cities
