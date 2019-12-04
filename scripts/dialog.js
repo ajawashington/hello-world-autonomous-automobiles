@@ -12,6 +12,12 @@ const initializeDetailButtonEvents = () => {
           }
       )
   }
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == button) {
+        button.style.display = "none";
+    }
+}
 
   const allDetailButtons = document.querySelectorAll("button[id^='button--']")
 
