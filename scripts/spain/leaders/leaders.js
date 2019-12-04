@@ -7,6 +7,7 @@ const LeaderComponent = (leader) => {
 
           <dialog class="dialog--leader" id="details--${leader.leader}">
           <div>Reign: ${leader.reign}</div>
+          <img src="${leader.imgUrl}" class="dialog__img">
 
           <button class="close__dialog">Close Dialog</button>
           </dialog>
