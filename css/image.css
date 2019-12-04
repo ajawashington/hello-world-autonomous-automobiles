@@ -60,5 +60,5 @@ p.imgcaption {
     max-width: 200px;
     padding-TOP: 1em;
     padding-bottom: .5em;
-    height: auto;
+    max-height: 140px;
 }
