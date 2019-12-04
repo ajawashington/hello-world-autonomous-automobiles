@@ -6,7 +6,7 @@ const initializeDetailButtonEvents = () => {
       btn.addEventListener(
           "click",
           theEvent => {
-              console.log("this got clciked")
+              console.log("this got clicked")
               const dialogElement = theEvent.target.parentNode
               dialogElement.close()
           }
